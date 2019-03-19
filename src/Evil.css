@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    width: 750px;
+    background-image: url("body01.jpg");
+    background-position: center;
+
+}
+
+#divtitle {
+    height: 250px;
+    background-image: url("header01.jpg");
+    background-position: 42% 25% ;
+    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+    text-align: center;
+}
+
+#title {
+    margin: 0px;
+}

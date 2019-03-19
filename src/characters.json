@@ -1,0 +1,22 @@
+{
+
+    "data" : [
+
+
+
+        {"name": "Alvida", "pseudo": "à La massue", "crew": "Equipage d\"Alvida", "text": "", "bounty": 5000000, "image": ""},
+        {"name": "Buggy", "pseudo": "Le Clown", "crew": "Equipage du Clown", "text": "", "bounty": 15000000, "image": ""},
+        {"name": "Kuro", "pseudo": "Au Cent Plans", "crew": "Chat Noir", "text": "", "bounty": 16000000, "image": ""},
+        {"name": "Don Krieg", "pseudo": "Le Perfide", "crew": "L\"Armada Pirate de Don Krieg", "text": "", "bounty": 17000000, "image": ""},
+        {"name": "Arlong", "pseudo": "La Scie", "crew": "Equipage d\"Arlong", "text": "", "bounty": 20000000, "image": ""},
+        {"name": "Crocodile", "pseudo": "Mister Zero", "crew": "Baroque Works", "text": "", "bounty": 81000000, "image": ""},
+        {"name": "Bellamy", "pseudo": "La Hyène", "crew": "New Age", "text": "", "bounty": 195000000, "image": ""},
+        {"name": "Ener", "pseudo": "Dieu Enel", "crew": "Clan d\"Ener", "text": "", "bounty": "Inconnue", "image": ""},
+        {"name": "", "pseudo": "", "crew": "", "text": "", "bounty": 0, "image": ""},
+        {"name": "", "pseudo": "", "crew": "", "text": "", "bounty": 0, "image": ""},
+        {"name": "", "pseudo": "", "crew": "", "text": "", "bounty": 0, "image": ""}
+        
+
+
+    ]
+}
