@@ -1,22 +1,92 @@
 {
-
-    "data" : [
-
-
-
-        {"name": "Alvida", "pseudo": "à La massue", "crew": "Equipage d\"Alvida", "text": "", "bounty": 5000000, "image": ""},
-        {"name": "Buggy", "pseudo": "Le Clown", "crew": "Equipage du Clown", "text": "", "bounty": 15000000, "image": ""},
-        {"name": "Kuro", "pseudo": "Au Cent Plans", "crew": "Chat Noir", "text": "", "bounty": 16000000, "image": ""},
-        {"name": "Don Krieg", "pseudo": "Le Perfide", "crew": "L\"Armada Pirate de Don Krieg", "text": "", "bounty": 17000000, "image": ""},
-        {"name": "Arlong", "pseudo": "La Scie", "crew": "Equipage d\"Arlong", "text": "", "bounty": 20000000, "image": ""},
-        {"name": "Crocodile", "pseudo": "Mister Zero", "crew": "Baroque Works", "text": "", "bounty": 81000000, "image": ""},
-        {"name": "Bellamy", "pseudo": "La Hyène", "crew": "New Age", "text": "", "bounty": 195000000, "image": ""},
-        {"name": "Ener", "pseudo": "Dieu Enel", "crew": "Clan d\"Ener", "text": "", "bounty": "Inconnue", "image": ""},
-        {"name": "", "pseudo": "", "crew": "", "text": "", "bounty": 0, "image": ""},
-        {"name": "", "pseudo": "", "crew": "", "text": "", "bounty": 0, "image": ""},
-        {"name": "", "pseudo": "", "crew": "", "text": "", "bounty": 0, "image": ""}
-        
-
-
+    "data": [
+        {
+            "name": "Alvida",
+            "pseudo": "à La massue",
+            "crew": "Equipage d\"Alvida",
+            "text": "Alvida (アルビダ, Arubida), aussi surnommée Alvida à la massue (金棒のアルビダ, Kanabō no Arubida), est la première femme pirate rencontrée par Luffy. Elle est Capitaine de l'Équipage d'Alvida dans lequel se trouvait Koby. Elle rejoint ensuite L'Équipage du Clown en tant que Co-Capitaine avec Baggy, et se lance sur Grand Line pour tenter de se venger de Luffy. Au début de la série, elle était recherchée pour 5 Millions de Berrys.",
+            "bounty": "5 000 000",
+            "image": "images/Alvida.png"
+        },
+        {
+            "name": "Buggy",
+            "pseudo": "Le Clown",
+            "crew": "Equipage du Clown",
+            "text": "Baggy (バギー, Bagī), aussi connu sous le nom de Baggy le Clown(道化のバギー, Dōke no Bagī) ou encore le Clown aux Mille Pièces est le capitaine de L'Équipage du Clown et un ancien mousse de L'Équipage des Pirates Roger. Il fit ses débuts en tant qu'antagoniste de Monkey D. Luffy, mais s'allie par la suite avec lui pour être libéré d'Impel Down. Il était l'antagoniste principal dans l'Arc de Baggy le Clown, et est depuis devenu un personnage très récurrent.",
+            "bounty": "15 000 000",
+            "image": "images/buggy.png"
+        },
+        {
+            "name": "Kuro",
+            "pseudo": "Au Cent Plans",
+            "crew": "Chat Noir",
+            "text": "Kuro(クロ, Kuro), aussi connu sous le nom de Klahadoll, est l'un des premiers antagonistes de la série. Il est le Capitaine de L'Équipage du Chat Noir et l'ex-Majordome de Kaya.",
+            "bounty": "160 000 000",
+            "image": "images/kuro.png"
+        },
+        {
+            "name": "Don Krieg",
+            "pseudo": "Le Perfide",
+            "crew": "L\"Armada Pirate de Don Krieg",
+            "text": "Don Krieg (首領・クリーク, Don Kurīku) de l'Armada Pirate était (en force militaire) le plus puissant pirate d'East Blue. Il est l'antagoniste principal de l'Arc du Baratie.",
+            "bounty": "17 000 000",
+            "image": "images/krieg.png"
+        },
+        {
+            "name": "Arlong",
+            "pseudo": "La Scie",
+            "crew": "Equipage d\"Arlong",
+            "text": "Arlong (アーロン, Āron), surnommé Arlong la Scie (ノコギリのアーロン, Nokogiri no Āron) est le capitaine de L'Équipage d'Arlong ainsi qu'un ancien membre de L'Équipage des Pirates du Soleil sous les ordres de Fisher Tiger puis de Jinbei. Il a tué Belmer, la mère adoptive de Nami et Nojiko, sous leurs yeux. Il est le grand frère de Shirley.[3]",
+            "bounty": "20 000 000",
+            "image": "images/arlong.png"
+        },
+        {
+            "name": "Crocodile",
+            "pseudo": "Mr. 0",
+            "crew": "Baroque Works",
+            "text": "Crocodile, plus connu sous le titre de Sir Crocodile[1] (サー･クロコダイル, Sā Kurokodairu) ou de Mr. 0 (ミスター・ゼロ, Misutā Zero), fût le président de Baroque Works[4] et l'antagoniste principal de la Saga Baroque Works. Son nom de code dans l'organisation était Mr. 0. Il est le premier ennemi de la série qui a duré aussi longtemps et fut le premier ennemi à avoir réellement battu Luffy. Il fut d'abord présenté comme l'un des 7 capitaines corsaires, mais il fut dépouillé de son titre lorsqu'il a essayé de prendre le contrôle d'Alabasta, le royaume du désert. Il fut d'abord présenté comme étant un ennemi majeur de Luffy, cependant, les deux ont formé une alliance difficile et improbable lors de leur évasion d'Impel Down et la deuxième moitié de la Bataille de Marine Ford.",
+            "bounty": "81 000 000",
+            "image": "images/crocodile.png"
+        },
+        {
+            "name": "Bellamy",
+            "pseudo": "La Hyène",
+            "crew": "New Age",
+            "text": "Bellamy 'La Hyène' (ハイエナのベラミー, Haiena no Beramī), surnommé également 'Le Pirate Sauvage' ou encore 'Le Plus Grand Rookie de tous les temps' est un ancien pirate reconnu pour son sourire démoniaque et ses habitudes à voler l'argent à d'autres pirates, telle une hyène qui pourchasse sa nourriture; il est temporairement un membre de L'Équipage de Don Quichotte Doflamingo et un allié de celui-ci. Il est prêt à tout pour obtenir la confiance de Doflamingo.",
+            "bounty": "195 000 000",
+            "image": "images/bellamy.png"
+        },
+        {
+            "name": "Ener",
+            "pseudo": "Dieu Enel (Auto-Proclamé)",
+            "crew": "Clan d\"Ener",
+            "text": "Enel (エネル, Eneru), auto-proclamé Dieu Enel (神ゴッド・エネル, Goddo Eneru) est l'antagoniste principal de l'Arc Skypiea. Il est l'ancien 'Dieu' de Skypiéa. Après sa défaite face à Luffy, il est parti sur la Lune lors des Mini-Aventures d'Ener où il rencontre les Spaceys.",
+            "bounty": "Inconnue",
+            "image": "images/ener.png"
+        },
+        {
+            "name": "Gekko Moria",
+            "pseudo": "Alain de l'Ombre",
+            "crew": "Corsaire Royal",
+            "text": "Gecko Moria (ゲッコー･モリア, Gekkō Moria) est un ancien Capitaine Corsaire qui dirige Thriller Bark. Sa prime est de Symbole Berry320 000 000.[6] C'est l'antagoniste principal de l'Arc Thriller Bark et un antagoniste majeur de l'Arc Marineford. À la fin de la guerre, il a été dépouillé de son titre et a failli être tué par Doflamingo, mais il a réussi à s'échapper, laissant son statut inconnu, malgré un article dans le journal annonçant sa mort.",
+            "bounty": "320 000 000",
+            "image": "images/moria.png"
+        },
+        {
+            "name": "Bartolomew Kuma",
+            "pseudo": "Le Tyrant",
+            "crew": "Corsaire Royal",
+            "text": "Bartholomew Kuma[4] (バーソロミュー・くま, Bāsoromyū Kuma) est l'un des 7 Grands Corsaires. C'était à l'origine un révolutionnaire dont l'ancienne prime était de Symbole Berry296 000 000. Il fut autrefois le roi du Royaume de Solbay, avant de devenir un pirate vicieux et craint de tous, gagnant le surnom 'le Tyran'. C'était un humain qui accepta d’être transformé en un Cyborg par le Dr. Vegapunk pour des raisons encore inconnues. Dès que Vegapunk eut finit la transformation de Kuma en Pacifista, le Capitaine Corsaire devint le premier de la série, il porte le numéro de série PX-0. Il a mangé le Nikyu Nikyu no Mi qui lui permet de tout repousser via ses paumes de main.",
+            "bounty": "296 000 000",
+            "image": "images/kuma.png"
+        },
+        {
+            "name": "Marshall D. Teach",
+            "pseudo": "Barbe-Noire",
+            "crew": "Equipage de Barbe Noire",
+            "text": "Marshall D. Teach, mieux connu sous le nom de Barbe Noire (黒ひげ, Kurohige), est l'Amiral de L'Équipage de Barbe Noire et fait actuellement partie des Quatre Empereurs. Ancien membre de la seconde division de L'Équipage de Barbe Blanche qui fut dirigée par Portgas D. Ace. Il tue Satch, Commandant de la quatrième division, pour s'approprier le Yami Yami no Mi. Il devint temporairement l'un des 7 Grands Corsaires en battant Ace et en le livrant à la Marine, mais il décide d'abandonner son titre après que son équipage et lui eurent tué Barbe Blanche lors du siège de Marine Ford.",
+            "bounty": "2 247 600 000",
+            "image": "images/teach.png"
+        }
     ]
 }
