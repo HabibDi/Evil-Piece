@@ -1,4 +1,6 @@
 import React, {Component} from 'react' ;
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import './Evil.css';
 import Characters from './Characters';
 
@@ -13,7 +15,10 @@ import Characters from './Characters';
 // componentDIdUpdate
 // render -> la méthode qui permet d'afficher le contenu HTML du component
 
+AOS.init()
+
 class Evil extends Component {
+  componentDidMount(){AOS.init()}
     render() {
       return (
         <div className="Evil">
@@ -24,8 +29,20 @@ class Evil extends Component {
             <div id="divtitle">
               <h1 id="title">Evil Piece</h1>
             </div>
-
+            
             <Characters></Characters>
+
+            <div data-aos="fade-right">
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            </div>
+
             <footer id="footer">lol</footer>
           </body>
           

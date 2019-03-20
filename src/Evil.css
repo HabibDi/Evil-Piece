@@ -1,3 +1,11 @@
+@font-face {
+    font-family: Impacted;
+    src: url(Impacted2.0.ttf);
+    font-weight:400;
+}
+
+
+
 body {
     margin: 0;
     width: 750px;
@@ -13,8 +21,26 @@ body {
     -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
     mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
     text-align: center;
+    animation-name: appear;
+    animation-duration: 5s;
 }
 
 #title {
     margin: 0px;
+    font-family:"Impacted";
+    font-size: 100px;
+    text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.774);
+    animation-name: appear;
+    animation-duration: 5s;
+}
+
+@keyframes appear {
+    from {opacity: 0;}
+    to {background-color: 1;}
+  }
+
+
+footer {
+
+    background-color: black;
 }
