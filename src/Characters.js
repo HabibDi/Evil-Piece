@@ -26,9 +26,11 @@ export default class Characters extends Component {
                             <div key={i}>
                                 <img class="images" alt={char.name} src={char.image}></img>
                                 <h3 id={char.name}>{char.name}</h3>
-                                <p class="pseudos">{char.pseudo}</p>
+                                <p class="pseudos">{"aka " + char.pseudo}</p>
+                                <p class="crews">{char.crew}</p>
                                 <p class="bio">{char.text}</p>
                                 <p class="primes">{char.bounty + ' B'}</p>
+                                <button onClick=""></button>
                             </div>
 
                         )
