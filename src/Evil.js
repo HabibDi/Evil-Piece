@@ -30,17 +30,8 @@ class Evil extends Component {
             <h1 id="title">Evil Piece</h1>
           </div>
 
-          <Characters></Characters>
-
-          <div data-aos="fade-right">
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+          <div id="all">
+            <Characters></Characters>
           </div>
 
           <footer id="footer">lol</footer>
@@ -49,6 +40,7 @@ class Evil extends Component {
       </div>
     );
   }
+}
 }
 
 export default Evil;

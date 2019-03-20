@@ -4,6 +4,12 @@
     font-weight:400;
 }
 
+@font-face {
+    font-family: Chinese;
+    src: url(chinese_rock.ttf);
+    font-weight:400;
+}
+
 
 
 body {
@@ -43,4 +49,72 @@ body {
 footer {
 
     background-color: black;
+}
+
+#all {
+
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.time {
+    margin-top: 10%;
+}
+
+.images {
+
+    height: 300px;
+    max-width: 300px;
+    position: absolute;
+
+}
+
+.fondtext {
+    width: 350px;
+    height: auto;
+    margin-left: 37%;
+    margin-right: 25%;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.356);
+}
+
+#pseudofond1, #pseudofond2 {
+    width: 170px;
+    height: auto;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    box-shadow: 3px 5px 5px 3px rgba(0, 0, 0, 0.356);
+    margin-left: 37%;
+}
+
+.bio {
+    font-size: 12px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+.names {
+    font-family: Chinese;
+    font-size: 35px;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.596);
+    margin-left: 37%;
+}
+
+.pseudos, .crews {
+    /*margin-left: 37%;*/
+    font-family: Chinese;
+    text-align: center;
+
+}
+
+.primes {
+    margin-left: 70%;
+    font-family: Chinese;
+    font-size: 30px;
+    color: rgb(255, 234, 43);
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.596);
 }
