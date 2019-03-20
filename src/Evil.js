@@ -1,4 +1,4 @@
-import React, {Component} from 'react' ;
+import React, { Component } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import './Evil.css';
@@ -18,37 +18,37 @@ import Characters from './Characters';
 AOS.init()
 
 class Evil extends Component {
-  componentDidMount(){AOS.init()}
-    render() {
-      return (
-        <div className="Evil">
-          <head>
-            <title>Evil Piece</title>
-          </head>
-          <body>
-            <div id="divtitle">
-              <h1 id="title">Evil Piece</h1>
-            </div>
-            
-            <Characters></Characters>
+  componentDidMount() { AOS.init() }
+  render() {
+    return (
+      <div className="Evil">
+        <head>
+          <title>Evil Piece</title>
+        </head>
+        <body>
+          <div id="divtitle">
+            <h1 id="title">Evil Piece</h1>
+          </div>
 
-            <div data-aos="fade-right">
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-              LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
-            </div>
+          <Characters></Characters>
 
-            <footer id="footer">lol</footer>
-          </body>
-          
-        </div>
-      );
-    }
+          <div data-aos="fade-right">
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+            LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOLOLOLOL<br />
+          </div>
+
+          <footer id="footer">lol</footer>
+        </body>
+
+      </div>
+    );
   }
-  
-  export default Evil;
+}
+
+export default Evil;

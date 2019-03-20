@@ -10,8 +10,6 @@ export default class Characters extends Component {
         this.state = { characters: characters.data }
     }
 
-
-
     render() {
 
         return (
@@ -30,7 +28,7 @@ export default class Characters extends Component {
                                 <p class="crews">{char.crew}</p>
                                 <p class="bio">{char.text}</p>
                                 <p class="primes">{char.bounty + ' B'}</p>
-                                <button onClick=""></button>
+                                {/* <button onClick=""></button> */}
                             </div>
 
                         )

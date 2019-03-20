@@ -6,7 +6,8 @@
             "crew": "Equipage d\"Alvida",
             "text": "Alvida (アルビダ, Arubida), aussi surnommée Alvida à la massue (金棒のアルビダ, Kanabō no Arubida), est la première femme pirate rencontrée par Luffy. Elle est Capitaine de l'Équipage d'Alvida dans lequel se trouvait Koby. Elle rejoint ensuite L'Équipage du Clown en tant que Co-Capitaine avec Baggy, et se lance sur Grand Line pour tenter de se venger de Luffy. Au début de la série, elle était recherchée pour 5 Millions de Berrys.",
             "bounty": "5 000 000",
-            "image": "images/Alvida.png"
+            "image": "images/Alvida.png",
+            "poster": "alvida_bounty.jpg"
         },
         {
             "name": "Buggy",
@@ -21,7 +22,7 @@
             "pseudo": "Au Cent Plans",
             "crew": "Chat Noir",
             "text": "Kuro(クロ, Kuro), aussi connu sous le nom de Klahadoll, est l'un des premiers antagonistes de la série. Il est le Capitaine de L'Équipage du Chat Noir et l'ex-Majordome de Kaya.",
-            "bounty": "160 000 000",
+            "bounty": "16 000 000",
             "image": "images/kuro.png"
         },
         {
