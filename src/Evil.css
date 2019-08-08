@@ -47,7 +47,7 @@ body {
 
 
 footer {
-
+    margin-bottom: 0;
     background-color: black;
 }
 
@@ -58,7 +58,10 @@ footer {
 }
 
 .time {
-    margin-top: 10%;
+    margin-top: 45%;
+    margin-bottom: 20%;
+    width: auto;
+    height: 300px;
 }
 
 .images {

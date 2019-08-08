@@ -41,6 +41,6 @@ class Evil extends Component {
     );
   }
 }
-}
+
 
 export default Evil;

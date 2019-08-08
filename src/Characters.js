@@ -28,7 +28,7 @@ export default class Characters extends Component {
                                 <div id="pseudofond2" data-aos="fade-right" data-aos-delay="900"><p className="crews" data-aos="fade-right" data-aos-delay="700">{char.crew}</p></div>
                                 <div className="fondtext" data-aos="fade-left" data-aos-delay="600"><p className="bio">{char.text}</p></div>
                                 <p className="primes" data-aos="fade-left" data-aos-delay="600">{char.bounty + ' B'}</p>
-                                <button onClick=""></button>
+                                {/* <button onClick=""></button> */}
                             </div>
 
                         )
